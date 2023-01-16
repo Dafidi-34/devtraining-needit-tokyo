@@ -8,7 +8,7 @@
         <global>true</global>
         <isolate_script>true</isolate_script>
         <messages/>
-        <name>onSubmit Script-Demo</name>
+        <name>NeedIt onSubmit Example</name>
         <order/>
         <script><![CDATA[function onSubmit() {
    //Type appropriate comment here, and begin script below
@@ -20,7 +20,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>184a97ef2f8021103ea0206df699b678</sys_id>
-        <sys_name>onSubmit Script-Demo</sys_name>
+        <sys_name>NeedIt onSubmit Example</sys_name>
         <sys_overrides/>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
